@@ -156,10 +156,10 @@ textarea {
     font-size: 1.6rem; }
   .btn--theme {
     background: #1C2060;
-    color: #3A1C60; }
+    color: #26a6b1; }
   .btn--theme-inv {
     color: #1C2060;
-    background: #3A1C60;
+    background: #26a6b1;
     border: 2px solid #1C2060;
     box-shadow: none;
     padding: calc(1.5rem - 2px) calc(5rem - 2px); }
@@ -185,7 +185,7 @@ textarea {
 
 .home-hero {
   color: #ffffff;
-  background: linear-gradient(to right, #1C2060, #3A1C60), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, #203f5d, #f8fbfa), url(../../assets/svg/common-bg.svg);
   background-position: center;
   height: 100vh;
   min-height: 80rem;
