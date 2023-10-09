@@ -93,10 +93,10 @@ textarea {
   margin-bottom: 3.5rem;
   position: relative; }
   .heading-sec__main--lt {
-    color: #fff; }
+    color: #1B953B; }
     .heading-sec__main--lt::after {
       content: '';
-      background: #fff !important; }
+      background: #23C04D !important; }
   .heading-sec__main::after {
     content: '';
     position: absolute;
