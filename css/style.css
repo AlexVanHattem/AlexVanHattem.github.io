@@ -155,12 +155,12 @@ textarea {
     padding: 1.5rem 5rem;
     font-size: 1.6rem; }
   .btn--theme {
-    background: #1B953B;
-    color: #23C04D; }
+    background: #1C2060;
+    color: #3A1C60; }
   .btn--theme-inv {
-    color: #1B953B;
-    background: #23C04D;
-    border: 2px solid #1B953B;
+    color: #1C2060;
+    background: #3A1C60;
+    border: 2px solid #1C2060;
     box-shadow: none;
     padding: calc(1.5rem - 2px) calc(5rem - 2px); }
 
@@ -184,7 +184,7 @@ textarea {
   display: none; }
 
 .home-hero {
-  color: #1C4260;
+  color: #ffffff;
   background: linear-gradient(to right, #1C2060, #3A1C60), url(../../assets/svg/common-bg.svg);
   background-position: center;
   height: 100vh;
