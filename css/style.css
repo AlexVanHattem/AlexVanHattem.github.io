@@ -155,12 +155,12 @@ textarea {
     padding: 1.5rem 5rem;
     font-size: 1.6rem; }
   .btn--theme {
-    background: #1C2060;
-    color: #26a6b1; }
+    background: #396120;
+    color: #ffffff; }
   .btn--theme-inv {
-    color: #1C2060;
-    background: #26a6b1;
-    border: 2px solid #1C2060;
+    color: #396120;
+    background: #ffffff;
+    border: 2px solid #396120;
     box-shadow: none;
     padding: calc(1.5rem - 2px) calc(5rem - 2px); }
 
@@ -185,7 +185,7 @@ textarea {
 
 .home-hero {
   color: #ffffff;
-  background: linear-gradient(to right, #203f5d, #f8fbfa), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, #66AD39, #A6E67E), url(../../assets/svg/common-bg.svg);
   background-position: center;
   height: 100vh;
   min-height: 80rem;
@@ -323,7 +323,7 @@ textarea {
           font-size: 1.7rem; } }
 
 .contact {
-  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, #66AD39, #A6E67E), url(../../assets/svg/common-bg.svg);
   background-size: cover;
   background-position: center; }
   .contact__form-container {
@@ -345,7 +345,7 @@ textarea {
       .contact__form-field {
         margin-bottom: 3rem; } }
   .contact__form-label {
-    color: #666;
+    color: #ffffff;
     font-size: 1.4rem;
     letter-spacing: 1px;
     font-weight: 700;
@@ -353,7 +353,7 @@ textarea {
     display: block;
     text-align: left; }
   .contact__form-input {
-    color: #333;
+    color: #ffffff;
     padding: 2rem;
     width: 100%;
     border: 1px solid #ebebeb;
@@ -404,7 +404,7 @@ textarea {
 
 .project-cs-hero {
   color: #fff;
-  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, #66AD39, #A6E67E), url(../../assets/svg/common-bg.svg);
   background-size: cover;
   background-position: center;
   position: relative; }
