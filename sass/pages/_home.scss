@@ -22,7 +22,7 @@
   &__socials {
     position: absolute;
     top: 50%;
-    border: 2px solid #eee;
+    border: 2px solid #1b953b;
     border-left: 2px solid #eee;
     transform: translateY(-50%);
     @include respond(tab-port) {
@@ -52,7 +52,7 @@
     transition: background .3s;
 
     &:hover {
-      background: rgba(#fff,.1);
+      background: rgba(#23C04D,.1);
     }
 
     &--bd-none {
